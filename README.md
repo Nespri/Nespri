@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Nespri
-- 👀 I’m interested in coches, aceite de motor
-- 🌱 I’m currently learning how to live
-- 💞️ I’m looking to collaborate on java, C
+- 👀 I’m interested 
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on little games or apps for begginers
 - 📫 How to reach me: 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: 
+- 🐸 Fun fact: I like frogs
 
 <!---
 Nespri/Nespri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
